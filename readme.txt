@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: trunk
 
-A smarter text widget that will only be rendered if it has a content. Perfect for text widgets where content is dynamically generated via shortcodes.
+A smarter text widget that will only be rendered if it has content. Perfect for text widgets with content dynamically generated via shortcodes.
 
 
 == Description ==
