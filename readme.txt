@@ -11,9 +11,9 @@ A smarter text widget that can be used to display table of contents in the sideb
 
 == Description ==
 
-When you use a shortcode in a text widget to dynamically create its content, the shortcode may yield empty content in some contexts, leaving you with an ugly looking empty widget in your sidebar, probably consisting of a title only.
+When you use a shortcode in a text widget to dynamically create its content, the shortcode may yield empty content in some contexts, leaving you with an ugly looking empty widget in your sidebar with nothing more than a title and a blank rectange.
 
-What you want is a text widget that will only show when it does have content. This is such a widget.
+What you want is a text widget that will only show up when it does have content. This is such a widget.
 
 A use case when you will immediately benefit from [Discreet Text Widget](http://hackadelic.com/solutions/wordpress/discreet-text-widget "Discreet Text Widget") is when you want a [Table of Contents](http://hackadelic.com/solutions/wordpress/toc-boxes "Hackadelic SEO Table Of Contents") [in the sidebar](http://hackadelic.com/table-of-contents-in-the-sidebar "How To Add a Table Of Contents to the Sidebar").
 
