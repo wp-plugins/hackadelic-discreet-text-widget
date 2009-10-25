@@ -1,6 +1,6 @@
 === Hackadelic Discreet Text Widget ===
 Contributors: Hackadelic
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=1805414
+Donate link: http://hackadelic.com/donations
 Tags: widget, text
 Requires at least: 2.8
 Tested up to: 2.8
